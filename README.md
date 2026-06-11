@@ -41,7 +41,7 @@ He oído hablar de las agent skills para programación. ¿Qué son? ¿Cómo podr
 ```
 ### Prompt 07
 ```
-Quiero a usar la IA para documentar tanto el complemento como el proceso de creación.  Esto me ayudará ir aprendiendo mientras hago mi *plugin* con IA. Dime cómo integrarla en le desarrollo del complemento con las herramientas de programación que voy a usar.
+Quiero a usar la IA para documentar tanto el complemento como el proceso de creación.  Esto me ayudará ir aprendiendo mientras hago mi plugin con IA. Dime cómo integrarla en le desarrollo del complemento con las herramientas de programación que voy a usar.
 ```
 ### Prompt 08
 ```
