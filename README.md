@@ -59,3 +59,12 @@ Añade una Fase 0 con los pasoso a dar para configurar mi entorno de trabajo y l
 </i>
 ```
 
+## Recursos
+
+- VSCODE
+- Winsurf
+- Cursor
+- Codemium
+- Plging Builder
+- Pluging Reload
+
