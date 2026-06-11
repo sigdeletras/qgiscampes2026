@@ -19,7 +19,7 @@ El usuario debería poder elegir el municipio, el tipo de datos (parcelas, direc
 Valora su viabilidad. Respóndeme de forma concisa y clara, sin rodeos ni explicaciones largas. Ten en cuenta mis conocimientos básicos de programación y que es mi primer complemento para QGIS```
 ```
 ### Prompt 02
-
+```
 ¿Qué herramientas de programación con IA me recomiendas? No quiero pagar nada ahora mismo***
 
 ### Prompt 03.
