@@ -27,7 +27,7 @@ Valora su viabilidad. Respóndeme de forma concisa y clara, sin rodeos ni explic
 
 ### Prompt 03.
 ```
-Frente a la gran cantidad de modelos IA (¿llm?) que existente, y teniendo en cuenta que no quiero pagar, cuáles me recomendarias para desarrollar mi compemento?¿Usarías siempre el mismo?
+Frente a la gran cantidad de modelos IA (¿llm?) que existente, y teniendo en cuenta que no quiero pagar, cuáles me recomendarías para desarrollar mi complemento?¿Usarías siempre el mismo?
 ```
 
 ### Prompt 04
