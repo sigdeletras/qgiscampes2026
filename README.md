@@ -6,8 +6,7 @@
 
 ### Prompt 01
 
-**
-Soy usuario de QGIS y trabajo habitualmente con los servicios de Catastro INSPIRE (https://www.catastro.hacienda.gob.es/webinspire/index.html), descargándolos a partir de las siguientes direcciones. 
+**Soy usuario de QGIS y trabajo habitualmente con los servicios de Catastro INSPIRE (https://www.catastro.hacienda.gob.es/webinspire/index.html), descargándolos a partir de las siguientes direcciones. 
 
 - ATOM de parcela catastral (CP) https://www.catastro.hacienda.gob.es/INSPIRE/CadastralParcels/ES.SDGC.CP.atom.xml
 - ATOM de direcciones (AD) https://www.catastro.hacienda.gob.es/INSPIRE/Addresses/ES.SDGC.AD.atom.xml
@@ -17,8 +16,7 @@ Tengo conocimientos básicos de Python, aunque mi experiencia es mayor en progra
 
 El usuario debería poder elegir el municipio, el tipo de datos (parcelas, direcciones o edificios) y el complemento se encargaría de descargar los datos y cargarlos en QGIS.
 
-Valora su viabilidad. Respóndeme de forma concisa y clara, sin rodeos ni explicaciones largas. Ten en cuenta mis conocimientos básicos de programación y que es mi primer complemento para QGIS
-**
+Valora su viabilidad. Respóndeme de forma concisa y clara, sin rodeos ni explicaciones largas. Ten en cuenta mis conocimientos básicos de programación y que es mi primer complemento para QGIS**
 
 ### Prompt 02
 ```
