@@ -37,7 +37,7 @@ Se habla mucho de la calidad del código. Mi desconocimiento puede generar un c�
 
 ### Prompt 05
 ```
-Voy a usar Visual Studio Code.  Dime cómo debería configurarlo. que extensiones y herramientas de IA necesito. Usa solo herramientas gratuitas.
+Voy a usar VisualStudio Code.  Dime cómo configurarlo,  extensiones para programar en Python y herramientas de IA. Usa solo herramientas gratuitas.
 ```
 
 ### Prompt 06
