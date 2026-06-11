@@ -22,7 +22,7 @@ Valora su viabilidad. Respóndeme de forma concisa y clara, sin rodeos ni explic
 
 ### Prompt 02
 ```
-¿Qué herramientas de programación con IA me recomiendas? No quiero pagar nada ahora mismo. Dime también si hay herramiemtas o complmentos que me ayudarían para desarrollar complmentos de QGIS
+¿Qué herramientas de programación con IA me recomiendas? No quiero pagar nada ahora mismo.
 ```
 
 ### Prompt 03.
