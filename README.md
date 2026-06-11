@@ -57,7 +57,7 @@ Antes de continuar ¿qué mas debería tener en cuenta?
 Ya tengo todo lo que necesito. Dame un guion o, mejor dicho, un plan de trabajo a partir de mis consultas. Para cada paso en el que deba interactuar con la IA, dame añade la instrucción que debo lanzar la la IA.
 Añade una Fase 0 con los pasoso a dar para configurar mi entorno de trabajo y las herramiemtas a usar.
 </i>
-```
+
 
 ## Recursos
 
