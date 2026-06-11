@@ -42,7 +42,7 @@ Voy a usar VisualStudio Code.  Dime cómo configurarlo,  extensiones para progra
 
 ### Prompt 06
 ```
-He oído hablar de las agent skills para programacuión. ¿Qué son? ¿Cómo podría usarlas en el caso de que merezca la pena?
+He oído hablar de las agent skills para programación. ¿Qué son? ¿Cómo podría usarlas en el caso de que merezca la pena?
 ```
 
 ### Prompt 07
