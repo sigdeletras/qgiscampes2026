@@ -57,10 +57,12 @@ El documento debe estar en formato markdown para que lo pueda descargar
 
 ## Enlaces a la respuesta de los asistentes
 
+**Usando suscripciones freemium** 
+
 - [Gemini](https://gemini.google.com/share/5bccfa83d1d9)
 - [Deepseek](https://chat.deepseek.com/share/uya53gopxq7zf5rwtk)
 - [ChatGPT](https://chatgpt.com/share/6a2aedfb-981c-83eb-987d-a01952e9aded)
-- [Claude]()
+- [Claude - Sonet 4.5 Bajo]()
 
 ## Recursos
 
