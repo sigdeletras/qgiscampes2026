@@ -54,6 +54,11 @@ Añade una Fase 0 con los pasos a dar para configurar mi entorno de trabajo y la
 El documento debe estar en formato markdown para que lo pueda descargar
 ```
 
+## Enlaces a la respuesta de los asistentes
+
+- [Gemini](https://gemini.google.com/share/5bccfa83d1d9)
+- [deepseek](https://chat.deepseek.com/share/uya53gopxq7zf5rwtk)
+
 ## Recursos
 
 - VSCODE
