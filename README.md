@@ -59,9 +59,9 @@ El documento debe estar en formato markdown para que lo pueda descargar
 
 **Usando suscripciones freemium** 
 
-- [Gemini](https://gemini.google.com/share/5bccfa83d1d9)
-- [Deepseek](https://chat.deepseek.com/share/uya53gopxq7zf5rwtk)
-- [ChatGPT](https://chatgpt.com/share/6a2aedfb-981c-83eb-987d-a01952e9aded)
+- [Gemini - Gemini 3.5 Flash](https://gemini.google.com/share/5bccfa83d1d9)
+- [Deepseek - DeepSeek-V3](https://chat.deepseek.com/share/uya53gopxq7zf5rwtk)
+- [ChatGPT - GPT-4o mini](https://chatgpt.com/share/6a2aedfb-981c-83eb-987d-a01952e9aded)
 - [Claude - Sonet 4.5 Bajo]()
 
 ## Recursos
