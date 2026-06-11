@@ -6,7 +6,8 @@
 
 ### Prompt 01
 
-```Soy usuario de QGIS y trabajo habitualmente con los servicios de Catastro INSPIRE (https://www.catastro.hacienda.gob.es/webinspire/index.html), descargándolos a partir de las siguientes direcciones. 
+```
+Soy usuario de QGIS y trabajo habitualmente con los servicios de Catastro INSPIRE (https://www.catastro.hacienda.gob.es/webinspire/index.html), descargándolos a partir de las siguientes direcciones. 
 
 - ATOM de parcela catastral (CP) https://www.catastro.hacienda.gob.es/INSPIRE/CadastralParcels/ES.SDGC.CP.atom.xml
 - ATOM de direcciones (AD) https://www.catastro.hacienda.gob.es/INSPIRE/Addresses/ES.SDGC.AD.atom.xml
@@ -57,7 +58,9 @@ El documento debe estar en formato markdown para que lo pueda descargar
 ## Enlaces a la respuesta de los asistentes
 
 - [Gemini](https://gemini.google.com/share/5bccfa83d1d9)
-- [deepseek](https://chat.deepseek.com/share/uya53gopxq7zf5rwtk)
+- [Deepseek](https://chat.deepseek.com/share/uya53gopxq7zf5rwtk)
+- [ChatGPT](https://chatgpt.com/share/6a2aedfb-981c-83eb-987d-a01952e9aded)
+- [Claude]()
 
 ## Recursos
 
