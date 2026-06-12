@@ -33,11 +33,12 @@ Valora su viabilidad de forma concisa, adaptada a mi nivel.
 ```
 ¿Qué herramientas de programación asistida por IA me recomiendas para desarrollar un complemento QGIS en Python? Diferencia entre gratuitas y de pago.
 ```
+
 ### Prompt 03 o "Sois todos iguales"
 ```
 ¿Qué LLMs recomiendas para desarrollar este complemento QGIS? ¿O conviene alternar varios según la tarea?
 ```
-### Prompt 04 o "¿Código KK?"
+### Prompt 04 o "¿Código de KK?"
 ```
 Siendo principiante, ¿cómo puedo asegurar que el código que genere con IA sea legible, mantenible y de calidad aceptable para otros desarrolladores?
 ```
