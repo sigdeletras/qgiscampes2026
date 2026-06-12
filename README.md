@@ -4,45 +4,60 @@
 
 ## Materiales de la presentación "Vibe coding para QGIS: oportunidades y riesgos de crear plugins con IA"
 
+### Tips sobre contrucciones de instrucciones
+- Añadir contexto y hacer referencia en vez de repetirlo
+- Evitar ser redundante y omitir frases de relleno
+- Fusionar condiciones
+- Evitar ambigüedades
+- Reformular preguntas muy abiertas abiertas y añadir ejemplos concretos
+- Normalizar terminología
+- Estructurar consultas
+- Definir formatos exactos de salida
+
 ### Prompt 01
 
 ```
-Soy usuario de QGIS y trabajo habitualmente con los servicios de Catastro INSPIRE (https://www.catastro.hacienda.gob.es/webinspire/index.html), descargándolos a partir de las siguientes direcciones. 
+Soy usuario de QGIS con conocimientos básicos de Python (más experiencia en web). Quiero crear mi primer complemento para descargar datos INSPIRE de Catastro por municipio y cargarlos en QGIS.
 
-- ATOM de parcela catastral (CP) https://www.catastro.hacienda.gob.es/INSPIRE/CadastralParcels/ES.SDGC.CP.atom.xml
-- ATOM de direcciones (AD) https://www.catastro.hacienda.gob.es/INSPIRE/Addresses/ES.SDGC.AD.atom.xml
-- ATOM de Edificios (BU) https://www.catastro.hacienda.gob.es/INSPIRE/buildings/ES.SDGC.BU.atom.xml
+Fuentes ATOM:
+- Parcelas: https://www.catastro.hacienda.gob.es/INSPIRE/CadastralParcels/ES.SDGC.CP.atom.xml
+- Direcciones: https://www.catastro.hacienda.gob.es/INSPIRE/Addresses/ES.SDGC.AD.atom.xml
+- Edificios: https://www.catastro.hacienda.gob.es/INSPIRE/buildings/ES.SDGC.BU.atom.xml
 
-Tengo conocimientos básicos de Python, aunque mi experiencia es mayor en programación web. Quiero crear un complemento de QGIS para descargar em una carpeta completa los datos de un municipio y que se carguen directamente en el programa. 
+El usuario elegiría municipio y tipo de datos; el plugin descarga y carga la capa.
 
-El usuario debería poder elegir el municipio, el tipo de datos (parcelas, direcciones o edificios) y el complemento se encargaría de descargar los datos y cargarlos en QGIS.
-
-Valora su viabilidad. Respóndeme de forma concisa y clara, sin rodeos ni explicaciones largas. Ten en cuenta mis conocimientos básicos de programación y que es mi primer complemento para QGIS
+Valora su viabilidad de forma concisa, adaptada a mi nivel.
 ```
 
 ### Prompt 02
 ```
-¿Qué herramientas de programación con IA me recomiendas? No quiero pagar nada ahora mismo
+¿Qué herramientas de programación asistida por IA me recomiendas para desarrollar un complemento QGIS en Python? Diferencia entre gratuitas y de pago.
 ```
 ### Prompt 03.
 ```
-Frente a la gran cantidad de modelos IA (¿llm?) que existente, y teniendo en cuenta que no quiero pagar, cuáles me recomendarías para desarrollar mi complemento?¿Usarías siempre el mismo?
+¿Qué LLMs recomiendas para desarrollar este complemento QGIS? ¿O conviene alternar varios según la tarea?
 ```
 ### Prompt 04
 ```
-Se habla mucho de la calidad del código. Mi desconocimiento puede generar un código poco legible, de baja calidad o que un usuario con conocimientos avanzados de programación no pueda utilizar. ¿Cómo puedo evitar esto?
+Siendo principiante, ¿cómo puedo asegurar que el código que genere con IA sea legible, mantenible y de calidad aceptable para otros desarrolladores?
 ```
-### Prompt 05
+### Prompt 05.1 (Claude)
 ```
-Voy a usar VisualStudio Code.  Dime cómo configurarlo,  extensiones para programar en Python y herramientas de IA. Usa solo herramientas gratuitas.
+Voy a usar VSCode con Claude. Dame una guía de configuración. Dime también extensiones de utilidad
 ```
+
+### Prompt 05.2 (Cursor)
+```
+Voy a usar Cursor. Dame una guía de configuración
+```
+
 ### Prompt 06
 ```
-He oído hablar de las agent skills para programación. ¿Qué son? ¿Cómo podría usarlas en el caso de que merezca la pena?
+¿Qué son los "agentic coding" o agent skills en IA? ¿Vale la pena usarlos para este proyecto y cómo?
 ```
 ### Prompt 07
 ```
-Quiero a usar la IA para documentar tanto el complemento como el proceso de creación.  Esto me ayudará ir aprendiendo mientras hago mi plugin con IA. Dime cómo integrarla en le desarrollo del complemento con las herramientas de programación que voy a usar.
+¿Cómo puedo usar la IA para documentar el complemento y el proceso de desarrollo con VSCode, de forma que también me sirva para aprender?
 ```
 ### Prompt 08
 ```
@@ -50,9 +65,12 @@ Antes de continuar ¿qué mas debería tener en cuenta?
 ```
 ### Prompt 09
 ```
-Ya tengo todo lo que necesito. Dame un guion o, mejor dicho, un plan de trabajo a partir de mis consultas. Para cada paso en el que deba interactuar con la IA, dame añade la instrucción que debo lanzar la la IA.
-Añade una Fase 0 con los pasos a dar para configurar mi entorno de trabajo y las herramientas a usar.
-El documento debe estar en formato markdown para que lo pueda descargar
+Con todo lo anterior, genera un plan de trabajo en Markdown para desarrollar el complemento. Incluye:
+- Fase 0: configuración del entorno de la herramienta
+- Una fase por etapa de desarrollo
+- Para cada interacción con la IA, el prompt exacto a lanzar
+
+Entrégalo como archivo .md descargable.
 ```
 
 ## Enlaces a la respuesta de los asistentes
