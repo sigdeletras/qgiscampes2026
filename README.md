@@ -82,17 +82,10 @@ Entrégalo como archivo .md descargable.
 
 **Usando suscripciones freemium** 
 
-- [Gemini - Gemini 3.5 Flash](https://gemini.google.com/share/5bccfa83d1d9)
-- [Deepseek - DeepSeek-V3](https://chat.deepseek.com/share/uya53gopxq7zf5rwtk)
+- [Gemini - Gemini 3.5 Flash](https://gemini.google.com/share/b6051da79222)
+- [Deepseek - DeepSeek-V3](https://chat.deepseek.com/share/lssd76t8ovvmge6yh2)
 - [ChatGPT - GPT-4o mini](https://chatgpt.com/share/6a2aedfb-981c-83eb-987d-a01952e9aded)
-- [Claude - Sonet 4.5 Bajo](https://claude.ai/share/29b0c6f7-3913-47e7-90cb-f4ca216b5bdc)
+- [Claude - Sonet 4.5 Bajo](https://claude.ai/share/1f78f5cf-7ad2-413b-bbda-f026229428cd)
 
-## Recursos
 
-- VSCODE
-- Winsurf
-- Cursor
-- Codemium
-- Plging Builder
-- Pluging Reload
 
