@@ -14,7 +14,7 @@
 - Estructurar consultas
 - Definir formatos exactos de salida
 
-### Prompt 01
+### Prompt 01 o "Sujétame el cubata…"
 
 ```
 Soy usuario de QGIS con conocimientos básicos de Python (más experiencia en web). Quiero crear mi primer complemento para descargar datos INSPIRE de Catastro por municipio y cargarlos en QGIS.
@@ -29,41 +29,45 @@ El usuario elegiría municipio y tipo de datos; el plugin descarga y carga la ca
 Valora su viabilidad de forma concisa, adaptada a mi nivel.
 ```
 
-### Prompt 02
+### Prompt 02 o "La caja de herramientas"
 ```
 ¿Qué herramientas de programación asistida por IA me recomiendas para desarrollar un complemento QGIS en Python? Diferencia entre gratuitas y de pago.
 ```
-### Prompt 03.
+### Prompt 03 o "Sois todos iguales"
 ```
 ¿Qué LLMs recomiendas para desarrollar este complemento QGIS? ¿O conviene alternar varios según la tarea?
 ```
-### Prompt 04
+### Prompt 04 o "¿Código KK?"
 ```
 Siendo principiante, ¿cómo puedo asegurar que el código que genere con IA sea legible, mantenible y de calidad aceptable para otros desarrolladores?
 ```
-### Prompt 05.1 (Claude)
+### Prompt 05 o "Los preliminares"
+
+(Claude) 
+
 ```
 Voy a usar VSCode con Claude. Dame una guía de configuración. Dime también extensiones de utilidad
 ```
 
-### Prompt 05.2 (Cursor)
+(Cursor)
+
 ```
 Voy a usar Cursor. Dame una guía de configuración
 ```
 
-### Prompt 06
+### Prompt 06 o "Es duro pedir…pero mejor es delegar"
 ```
 ¿Qué son los "agentic coding" o agent skills en IA? ¿Vale la pena usarlos para este proyecto y cómo?
 ```
-### Prompt 07
+### Prompt 07 o "Documentar ≠ Sufrir"
 ```
 ¿Cómo puedo usar la IA para documentar el complemento y el proceso de desarrollo con VSCode, de forma que también me sirva para aprender?
 ```
-### Prompt 08
+### Prompt 08 o "¿Qué se me está escapando?"
 ```
 Antes de continuar ¿qué mas debería tener en cuenta?
 ```
-### Prompt 09
+### Prompt 09 o "*Habemus* un plan"
 ```
 Con todo lo anterior, genera un plan de trabajo en Markdown para desarrollar el complemento. Incluye:
 - Fase 0: configuración del entorno de la herramienta
