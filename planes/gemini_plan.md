@@ -4,7 +4,6 @@ Aquí tienes el plan de trabajo completo presentado directamente en el chat en f
 
 Este plan de trabajo está estructurado para guiarte paso a paso en el desarrollo de tu primer plugin de QGIS, aplicando buenas prácticas de desarrollo y utilizando la IA de forma agéntica y didáctica.
 
----
 
 ## 🚀 Fase 0: Configuración del Entorno de Trabajo
 
