@@ -28,7 +28,8 @@ Este plan de trabajo está estructurado para guiarte paso a paso en el desarroll
 2. Asegúrate de tener instaladas las siguientes extensiones en tu VS Code: *Python (Microsoft)*, *Claude Code*, *PyQGIS 3 Autocomplete* y *Ruff*.
 3. Cambia el intérprete de Python de VS Code (`Ctrl+Shift+P` -> `Python: Select Interpreter`) y selecciona el binario de Python que viene integrado dentro de la instalación de tu QGIS.
 4. Crea un archivo llamado `CLAUDE.md` en la raíz del proyecto para alinear las directrices de calidad. Pega dentro lo siguiente:
-   ```markdown
+
+```markdown
    # Proyecto: QGIS Catastro Downloader Plugin
    ## Tecnologías
    - Python 3.x
